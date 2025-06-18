@@ -16,7 +16,7 @@ Insights and recommendations are provided on the following key areas:
 - Profitability Analysis: Investigate the profitability variance between high-performing and low-performing vendors.
 
 ## Relevant Resources
-- The raw dataset used for analysis can be accessed [here](https://drive.google.com/drive/folders/135tgUOCXse7rB9N2nH6Rwpfv3wus63-_?usp=drive_link). <br>
+- The raw dataset is private. <br>
 - The SQL script for data extraction and visualization is available [here](https://github.com/DanielaRubianoB/nuvora-vendor-performance-analysis/blob/main/ingestion_db.py). <br>
 - The SQL script for data cleaning is available [here](https://github.com/DanielaRubianoB/nuvora-vendor-performance-analysis/blob/main/get_vendor_summary.py). <br>
 - The Python script used for data analysis can be accessed [here](https://github.com/DanielaRubianoB/nuvora-vendor-performance-analysis/blob/main/Vendor_performance_analysis.ipynb). <br>
